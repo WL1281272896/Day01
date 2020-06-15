@@ -11,4 +11,4 @@
 
 1、继续把《AI趣味课程》看完，并做个笔记。
 
-2、注册一个GitHub(https://github.com/)账号，并把今天的课件下载下来。
+2、注册一个GitHub（ https://github.com ）账号，并把今天的课件下载下来。
